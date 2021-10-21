@@ -1,1 +1,1 @@
-Repository for the ("Landing Page" project)[https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page], a lesson on CSS by (The Odin Project)[https://www.theodinproject.com/]
+Repository for the ["Landing Page" project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page), a lesson on CSS by [The Odin Project](https://www.theodinproject.com/)
