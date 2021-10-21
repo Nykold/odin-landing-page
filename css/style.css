@@ -49,14 +49,14 @@ body {
     color: #f9faf8;
     font-size: 48px;
     font-weight: 900;
-    padding-bottom: 8px;
+    padding-bottom: 16px;
     margin: 0;
 }
 
 .hero-text p {
     color: #e5e7eb;
     font-size: 18px;
-    padding-bottom: 8px;
+    padding-bottom: 16px;
     margin: 0;
 }
 
@@ -130,6 +130,7 @@ body {
     font-weight: 200;
     font-style: italic;
     color: #1f2937;
+    margin-bottom: 16px;
 }
 
 .quote-author {
